@@ -1,8 +1,0 @@
-0.6
-2017.4
-Dec 15 2017
-21:07:18
-C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/TCA_9538_inputs/TCA_9538_inputs/TCA_9538_inputs.srcs/sources_1/new/i2c.vhd,1521633479,vhdl,,,,i2c_master,,,,,,,,
-C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/TCA_9538_inputs/TCA_9538_inputs/TCA_9538_inputs.srcs/sources_1/new/tb_i2c.vhd,1521636784,vhdl,,,,tb_i2c_controller,,,,,,,,
-C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/TCA_9538_inputs/TCA_9538_inputs/TCA_9538_inputs.srcs/sources_1/new/tb_tca_9538_input.vhd,1521640478,vhdl,,,,tb_tca9538_input,,,,,,,,
-C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/TCA_9538_inputs/TCA_9538_inputs/TCA_9538_inputs.srcs/sources_1/new/tca_9538_input.vhd,1521642183,vhdl,,,,tca9538_driver_input,,,,,,,,

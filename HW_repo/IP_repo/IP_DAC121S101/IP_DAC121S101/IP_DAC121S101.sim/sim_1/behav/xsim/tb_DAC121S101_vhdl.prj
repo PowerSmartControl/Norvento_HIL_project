@@ -1,8 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../IP_DAC121S101.srcs/sources_1/new/DAC_121s101.vhd" \
-"../../../../IP_DAC121S101.srcs/sources_1/new/spi.vhd" \
-"../../../../IP_DAC121S101.srcs/sources_1/new/tb_dac_121s101.vhd" \
-
-# Do not sort compile order
-nosort

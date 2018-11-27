@@ -1,1 +1,0 @@
-Rename "RTSConsole.txt" to "RTSConsole.exe"

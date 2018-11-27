@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/FSM/FSM/FSM.srcs/sources_1/new/FSM_NV.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity FSM
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jorge/Documents/GitHub/nvHIL/Vivado/FSM/FSM/FSM.srcs/sources_1/new/tb_FSM_NV.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity tb

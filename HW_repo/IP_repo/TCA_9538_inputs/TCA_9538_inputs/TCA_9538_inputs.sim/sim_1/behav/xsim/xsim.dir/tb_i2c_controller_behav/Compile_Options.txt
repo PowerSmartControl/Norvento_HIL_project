@@ -1,1 +1,0 @@
--wto "6d4e3c0cae564710b9810c6b5929834c" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_i2c_controller_behav" "xil_defaultlib.tb_i2c_controller" -log "elaborate.log" 

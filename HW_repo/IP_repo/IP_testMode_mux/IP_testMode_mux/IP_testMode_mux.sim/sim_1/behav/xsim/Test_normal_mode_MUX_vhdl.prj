@@ -1,6 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../IP_testMode_mux.srcs/sources_1/new/IP_testMode_mux.vhd" \
-
-# Do not sort compile order
-nosort
