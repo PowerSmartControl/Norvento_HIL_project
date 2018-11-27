@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="2360000001fs"></ZoomEndTime>
+      <Cursor1Time time="100000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="114"></NameColumnWidth>
+      <ValueColumnWidth column_width="161"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="28" />
+   <wvobject fp_name="/tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/RST" type="logic">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/mode" type="logic">
+      <obj_property name="ElementShortName">mode</obj_property>
+      <obj_property name="ObjectShortName">mode</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_1" type="array">
+      <obj_property name="ElementShortName">analog_output_1[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_1[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_2" type="array">
+      <obj_property name="ElementShortName">analog_output_2[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_2[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_3" type="array">
+      <obj_property name="ElementShortName">analog_output_3[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_3[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_4" type="array">
+      <obj_property name="ElementShortName">analog_output_4[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_4[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_5" type="array">
+      <obj_property name="ElementShortName">analog_output_5[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_5[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_6" type="array">
+      <obj_property name="ElementShortName">analog_output_6[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_6[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_7" type="array">
+      <obj_property name="ElementShortName">analog_output_7[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_7[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_8" type="array">
+      <obj_property name="ElementShortName">analog_output_8[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_8[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_9" type="array">
+      <obj_property name="ElementShortName">analog_output_9[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_9[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_10" type="array">
+      <obj_property name="ElementShortName">analog_output_10[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_10[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_11" type="array">
+      <obj_property name="ElementShortName">analog_output_11[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_11[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_12" type="array">
+      <obj_property name="ElementShortName">analog_output_12[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_12[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_13" type="array">
+      <obj_property name="ElementShortName">analog_output_13[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_13[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_14" type="array">
+      <obj_property name="ElementShortName">analog_output_14[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_14[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_15" type="array">
+      <obj_property name="ElementShortName">analog_output_15[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_15[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_16" type="array">
+      <obj_property name="ElementShortName">analog_output_16[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_16[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_17" type="array">
+      <obj_property name="ElementShortName">analog_output_17[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_17[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/analog_output_18" type="array">
+      <obj_property name="ElementShortName">analog_output_18[11:0]</obj_property>
+      <obj_property name="ObjectShortName">analog_output_18[11:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">-200.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">200.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DigPot_output_1" type="array">
+      <obj_property name="ElementShortName">DigPot_output_1[9:0]</obj_property>
+      <obj_property name="ObjectShortName">DigPot_output_1[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DigPot_output_2" type="array">
+      <obj_property name="ElementShortName">DigPot_output_2[9:0]</obj_property>
+      <obj_property name="ObjectShortName">DigPot_output_2[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DigPot_output_3" type="array">
+      <obj_property name="ElementShortName">DigPot_output_3[9:0]</obj_property>
+      <obj_property name="ObjectShortName">DigPot_output_3[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/DigPot_output_4" type="array">
+      <obj_property name="ElementShortName">DigPot_output_4[9:0]</obj_property>
+      <obj_property name="ObjectShortName">DigPot_output_4[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/Expansor_output_1" type="array">
+      <obj_property name="ElementShortName">Expansor_output_1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Expansor_output_1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/Expansor_output_2" type="array">
+      <obj_property name="ElementShortName">Expansor_output_2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Expansor_output_2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/Expansor_output_3" type="array">
+      <obj_property name="ElementShortName">Expansor_output_3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Expansor_output_3[7:0]</obj_property>
+   </wvobject>
+</wave_config>

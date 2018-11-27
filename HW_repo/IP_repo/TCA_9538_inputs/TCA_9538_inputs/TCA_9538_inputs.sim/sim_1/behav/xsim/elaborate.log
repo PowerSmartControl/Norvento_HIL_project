@@ -1,0 +1,19 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 6d4e3c0cae564710b9810c6b5929834c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_TCA9538_input_behav xil_defaultlib.tb_TCA9538_input -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture logic of entity xil_defaultlib.i2c_master [\i2c_master(input_clk=100000000)...]
+Compiling architecture tca9538_input of entity xil_defaultlib.TCA9538_driver_input [tca9538_driver_input_default]
+Compiling architecture tb of entity xil_defaultlib.tb_tca9538_input
+Built simulation snapshot tb_TCA9538_input_behav

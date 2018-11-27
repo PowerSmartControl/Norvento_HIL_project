@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER NV_io_controller
+	OPTION supported_peripherals = (NV_io_controller);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = NV_io_controller;
+END DRIVER
