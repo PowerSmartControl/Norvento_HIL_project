@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -64 96 -64 -79
+LINE Normal 112 -1 -64 96
+LINE Normal -64 -79 112 -1
+WINDOW 0 -64 -79 Bottom 2
+WINDOW 3 -64 96 Top 2
+SYMATTR Prefix X
+SYMATTR Value LMH6321
+SYMATTR ModelFile C:\Users\Jorge\Desktop\LMH6321.MOD
+PIN -64 0 LEFT 8
+PINATTR PinName IN
+PINATTR SpiceOrder 1
+PIN 0 -48 TOP 8
+PINATTR PinName V+
+PINATTR SpiceOrder 2
+PIN 0 64 BOTTOM 8
+PINATTR PinName V-
+PINATTR SpiceOrder 3
+PIN 112 0 RIGHT 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 4

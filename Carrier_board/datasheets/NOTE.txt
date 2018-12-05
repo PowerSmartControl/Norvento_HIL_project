@@ -1,0 +1,1 @@
+Only serial communicated ICs datasheets are provided
